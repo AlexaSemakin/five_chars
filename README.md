@@ -45,8 +45,8 @@
 
 ## 👨‍💻 Автор
 **Alexandr Semakin**
-- 📧 GitHub: [ваш_github]
-- 💼 LinkedIn: [ваш_linkedin]
+- 📧 Mail: a.a.semakin@viarune.com
+- 💼 Site: alexsemakin.ru
 
 ## 📄 Лицензия
 MIT License
